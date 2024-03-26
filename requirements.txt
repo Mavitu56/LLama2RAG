@@ -1,0 +1,11 @@
+langchain==0.0.262
+einops
+transformers
+bitsandbytes
+scipy
+xformers
+sentencepiece
+sentence_transformers
+llama-index==0.7.21
+llama_hub==0.0.19
+accelerate
